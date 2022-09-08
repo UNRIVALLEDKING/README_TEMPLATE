@@ -1,6 +1,6 @@
 <h1 align="center">UNRIVALLEDKING 🚀</h1>
 
-[![UNRIVALLEDKING](.\assets\UNRIVALLEDKING.jpg)](https://github.com/UNRIVALLEDKING)
+[![Social banner for UNRIVALLEDKING](.\assets\UNRIVALLEDKING.jpg)](https://github.com/UNRIVALLEDKING)
 [![UNRIVALLEDKING](.\assets\UNRIVALLEDKINGpfp.jpg)](https://github.com/UNRIVALLEDKING)
 [![UNRIVALLEDKING](.\assets\SoloLevelingPFP.jpg)](https://github.com/UNRIVALLEDKING)
 
