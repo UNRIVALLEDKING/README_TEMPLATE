@@ -1,10 +1,12 @@
 <h1 align="center">UNRIVALLEDKING 🚀</h1>
 
-[![UNRIVALLEDKING](https://github.com/UNRIVALLEDKING/README_TEMPLATE/blob/main/assets/UNRIVALLEDKING.jpg?raw=true)](https://github.com/UNRIVALLEDKING)
-[![UNRIVALLEDKING](https://github.com/UNRIVALLEDKING/README_TEMPLATE/blob/main/assets/UNRIVALLEDKINGpfp.jpg?raw=true)](https://github.com/UNRIVALLEDKING)
-[![UNRIVALLEDKING](https://github.com/UNRIVALLEDKING/README_TEMPLATE/blob/main/assets/SoloLevelingPFP.jpg?raw=true)](https://github.com/UNRIVALLEDKING)
+<!-- [![UNRIVALLEDKING](https://github.com/UNRIVALLEDKING/README_TEMPLATE/blob/main/assets/UNRIVALLEDKING.jpg?raw=true)](https://github.com/UNRIVALLEDKING) -->
 
-<a href="">
+[![UNRIVALLEDKING](https://github.com/UNRIVALLEDKING/README_TEMPLATE/blob/main/assets/UNRIVALLEDKINGpfp.jpg?raw=true)](https://github.com/UNRIVALLEDKING)
+
+<!-- [![UNRIVALLEDKING](https://github.com/UNRIVALLEDKING/README_TEMPLATE/blob/main/assets/SoloLevelingPFP.jpg?raw=true)](https://github.com/UNRIVALLEDKING) -->
+
+<a href="https://github.com/UNRIVALLEDKING">
     <img src=".\assets\UNRIVALLEDKING.jpg" alt="Logo" width="80" height="80">
   </a>
 
