@@ -4,6 +4,10 @@
 ![UNRIVALLEDKING](.\assets\UNRIVALLEDKINGpfp.jpg)
 ![UNRIVALLEDKING](.\assets\SoloLevelingPFP.jpg)
 
+<a href="">
+    <img src=".\assets\UNRIVALLEDKING.jpg" alt="Logo" width="80" height="80">
+  </a>
+
 <h2 align="center">Center Heading 2 🚀</h2>
 <h3 align="center">Center Heading 3 🚀</h3>
 
